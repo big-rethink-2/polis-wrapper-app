@@ -1,0 +1,11 @@
+title: What makes humanitarian action legitimate in today’s world – and who gets to decide?
+baseURL: https://rethink.makingsenseofcrisis.org
+params:
+  description: null
+  image: null
+  typeform_id: "T6W91eo1"
+  # Can be conversation ID or URL.
+  polis_convo: "https://poliscommunity.crown-shy.com/3ejmeteukf"
+
+# Disable Hugo's generation of tags/categories directories.
+taxonomies: {}
