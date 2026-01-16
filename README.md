@@ -83,3 +83,4 @@ This repo is GitHub Pages-ready, no build step required. For self-hosting, copy 
 
 <!-- Links -->
    [install-hugo]: https://gohugo.io/installation/
+   [install-caddy]: https://caddyserver.com/docs/install
